@@ -12,7 +12,7 @@ numbers = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
 symbols = ['!', '#', '$', '%', '&', '(', ')', '*', '+']
 
 print("Welcome to password generator!")
-number_of_letters = int(input("How many letter yu want to have in your password? "))
+number_of_letters = int(input("How many letter you want to have in your password? "))
 number_of_numbers = int(input("How many numbers you want to have in your password? "))
 number_of_symbols = int(input("How many symbols you want to have in your password? "))
 
